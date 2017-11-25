@@ -1,0 +1,6 @@
+,From,To
+1,CI,GFP
+2,CI,LacI
+3,CI,TetR
+4,TetR,P0
+5,P0,CI
